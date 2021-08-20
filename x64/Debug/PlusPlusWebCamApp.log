@@ -1,0 +1,7 @@
+﻿  PlusPlusCam.cpp
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\PlusPlusCam.h(136,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\PlusPlusCam.h(137,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\PlusPlusCam.h(137,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\PlusPlusCam.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  PlusPlusCam.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PlusPlusWebCamApp.vcxproj -> C:\Users\mustafa\source\repos\PlusPlusWebCamApp\x64\Debug\PlusPlusWebCamApp.exe

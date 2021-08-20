@@ -1,0 +1,4 @@
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\x64\Debug\PlusPlusWebCamApp.PlusPlusCam.resources
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\x64\Debug\PlusPlusWebCamApp.vcxproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\x64\Debug\PlusPlusWebCamApp.exe
+C:\Users\mustafa\source\repos\PlusPlusWebCamApp\x64\Debug\PlusPlusWebCamApp.vcxproj.AssemblyReference.cache
